@@ -12,7 +12,7 @@ Command line application to read the customers spreadsheet and parse it.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/devrajpatel1006/bus-ticket
+   git clone https://github.com/devrajpatel1006/command-line-application
    ```
 
 2. Install dependencies:
